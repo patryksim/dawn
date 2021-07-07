@@ -957,6 +957,9 @@
         "show_vendor": {
           "label": "Show vendor"
         },
+        "subheading": {
+          "label": "Subheading"
+        },
         "header__1": {
           "content": "Filtering and sorting"
         },
